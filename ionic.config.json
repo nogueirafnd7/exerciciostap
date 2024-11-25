@@ -1,0 +1,7 @@
+{
+  "name": "exerciciostap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
